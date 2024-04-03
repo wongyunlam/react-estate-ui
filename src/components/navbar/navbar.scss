@@ -1,0 +1,16 @@
+nav {
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .left {
+        flex: 3;
+        background-color: rebeccapurple;
+    }
+
+    .right {
+        flex: 2;
+        background-color: burlywood;
+    }
+}
